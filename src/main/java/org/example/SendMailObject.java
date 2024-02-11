@@ -1,4 +1,6 @@
 package org.example;
+//Javamail
+//bndm qnqu vlvu jhwy
 
 import com.itextpdf.text.Document;
 import com.itextpdf.text.Paragraph;
@@ -22,8 +24,8 @@ import java.util.Properties;
 public class SendMailObject {
 
     private String userName = "java.23.test.mail@gmail.com";
-    private String password = "bndm qnqu vlvu jhwy";
-    //Javamail
+    private String password = "***";
+
 
     private String recipientList = "";
     private String senderName = "";
